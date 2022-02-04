@@ -1,0 +1,19 @@
+{
+  "name": "eslint-plugin-react-lazy-notation",
+  "version": "1.0.0",
+  "description": "check lazy usage for react, google: react chunk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "rule",
+    "plugin",
+    "react",
+    "lazy",
+    "chunk"
+  ],
+  "author": "vgulaev",
+  "license": "MIT"
+}
