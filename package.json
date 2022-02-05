@@ -15,5 +15,8 @@
     "chunk"
   ],
   "author": "vgulaev",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "esquery": "^1.4.0"
+  }
 }
