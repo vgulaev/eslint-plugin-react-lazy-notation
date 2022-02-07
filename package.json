@@ -1,7 +1,11 @@
 {
   "name": "eslint-plugin-react-lazy-notation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "check lazy usage for react, google: react chunk",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vgulaev/eslint-plugin-react-lazy-notation"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
