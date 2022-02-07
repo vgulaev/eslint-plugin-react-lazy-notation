@@ -7,11 +7,11 @@ Edit your eslint conf:
 Hint
 ```json
 {
-  'plugins': [
-    'react-lazy-notation'
+  "plugins": [
+    "react-lazy-notation"
   ],
-  'rules': {
-    'react-lazy-notation/react-lazy-notation': 'error'
+  "rules": {
+    "react-lazy-notation/react-lazy-notation": "error"
   }
 }
 ```

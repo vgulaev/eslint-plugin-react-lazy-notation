@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-react-lazy-notation",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "check lazy usage for react, google: react chunk",
   "repository": {
     "type": "git",
