@@ -2,7 +2,8 @@ const esquery = require("esquery")
 
 const transormLine = line => {
   const parts = line.split(' ')
-  return `const ${parts[1]} = lazy(() => import(${parts[3]}))`
+  const fileName = parts[3].replaceAll(';', '')
+  return `const ${parts[1]} = lazy(() => import(${fileName}))`
 }
 
 module.exports = {
